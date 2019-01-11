@@ -1,5 +1,5 @@
 # Methods
-All methods works exactly like array methods but with localStorage
+All methods works exactly like array methods but with localStorage & sessionStorage.
 ## setArray method  
 `setArray('key', array);`
 
